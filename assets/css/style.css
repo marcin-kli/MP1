@@ -1,0 +1,50 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body{
+  font-family: Arial;
+  font-size: 16px;
+  line-height: 1.5em;
+  color: #F000AA;
+}
+
+a{
+    color: #ffabcd
+}
+
+nav a{
+    color: #e8ff13;
+}
+
+nav a:hover{
+    color: #10c7d0;
+    border-bottom: 1px solid #10c7d0;
+    text-decoration: none;
+}
+nav ul{
+    float: right;
+    display: flex;
+    
+}
+
+nav li{
+  
+    list-style-type: none;
+    text-align: center;
+}
+
+article{
+margin-top: 50px;
+
+}
+
+
+section{
+    
+    height: 100px;
+    
+}

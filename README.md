@@ -5,7 +5,7 @@ Main aim is to build responsive website with HTML and CSS only.
 
 ---
 
-# Table of Contents
+# Table of contents
 
 - [UX](#ux)
     - [Website owner business goals](#website-owner-business-goals)

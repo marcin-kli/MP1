@@ -1,4 +1,4 @@
-
+/*-------------fixed for testing---*/
 *{
   margin: 0;
   padding: 0;
@@ -16,35 +16,61 @@ a{
     color: #ffabcd
 }
 
-nav a{
-    color: #e8ff13;
+/*-------------Colors---*/
+
+.bg-site-main-color{
+    background-color: #99eeff;
 }
 
-nav a:hover{
-    color: #10c7d0;
-    border-bottom: 1px solid #10c7d0;
-    text-decoration: none;
-}
-nav ul{
-    float: right;
-    display: flex;
-    
+#bg-color-navbar{
+    background-color: #99eeff;
 }
 
-nav li{
-  
-    list-style-type: none;
+.icon-color{
+    color: rgb(110, 110, 110)
+}
+
+
+/*-------------Footer---*/
+
+footer li{
+     display: inline;
+     text-align: center;
+}
+
+footer ul{
+  padding-top: 15px;
+}
+
+.no-border{
+    border: none;
+    border-radius: 0px;
+}
+
+.social-links { 
+    font-size:125%;
     text-align: center;
 }
 
-article{
-margin-top: 50px;
-
+.social-links li {
+    margin-right: 35px;
 }
 
 
+
+
+
+
+
+
+
+
+article{
+    margin-top: 80px;
+
+}
+
 section{
-    
-    height: 100px;
+    height: 200px;
     
 }

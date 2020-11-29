@@ -16,8 +16,11 @@ Main aim is to build responsive website with HTML and CSS only.
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
-
-
+- [Features](#features)
+- [Technology](#technology)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 # UX
 
 ## Website owner business goals
@@ -75,13 +78,48 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 
 # Technology
 
-### Wireframes
-* The go-to wireframing tool. [wireframe.cc](https://wireframe.cc/)
-* GNU Image Manipulation Program [GIMP](https://www.gimp.org/)
+### HTML5
+* As a structure language.
 
---
+### CSS
+* As a style language.
+
+### Bootstrap bootstrap@4.5.3
+* As a CSS framework to keep responsive, mobile first aproach.
+
+### Font Awesome
+* As an icon library to keep user-friendly design.
+
+### GitHub
+* As a software hosting platform to keep project in a remote location.
+
+### Git
+* As a version-control system tracking.
+
+### Gitpod
+* As a development hosting platform.
+
+### Wireframe.cc
+* As a wireframing tool.
+
+### GNU Image Manipulation Program [GIMP]
+* As a image editor.
+
 
 # Testing
+
+### Issues found during site development.
+
+* #### Horizontal scrolling bar on the bottom of the screen.
+![testing_issue_1](testing/testing_issue_1.png)
+
+I used [grid markup](https://getbootstrap.com/docs/4.5/components/card/#header-and-footer)
+to create two sepereate collumns. To achieve this I had to use *.row* in first *div* element and *col-sm-6* in the second *div* element.
+After that I found that horizontal scrolling bar appear on the bottom of the screen.
+Using mozilla developer tools I noticed that by default class *.row* has *margin-right: -15px;* and *margin-left: -15px;*
+
+To fix this I created new class and *.no-row-margin* and set both margins to 0px.
+
 
 
 # Deployment
@@ -90,4 +128,5 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 # Credits
 
 To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
 

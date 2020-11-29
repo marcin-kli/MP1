@@ -16,26 +16,35 @@ a{
     color: #ffabcd
 }
 
+
 /*-------------Colors---*/
 
 .bg-site-main-color{
     background-color: #99eeff;
 }
 
-#bg-color-navbar{
-    background-color: #99eeff;
-}
-
-.icon-color{
+.main-site-color{
     color: rgb(110, 110, 110)
 }
+.main-site-color a{
+    color: rgb(110, 110, 110)
+}
+
+/*-------------Navigation---*/
+
+nav li a:hover{
+    transition: all 0.5s linear 0s;
+    color:#ff9000 !important;
+    font-weight: normal;
+    font-size:110%;
+}
+
 
 
 /*-------------Footer---*/
 
 footer li{
      display: inline;
-     text-align: center;
 }
 
 footer ul{
@@ -47,18 +56,33 @@ footer ul{
     border-radius: 0px;
 }
 
+.footer-style{
+    text-align: center;
+    text-transform: uppercase;
+}
+
 .social-links { 
     font-size:125%;
     text-align: center;
+    padding-left:25px;
 }
 
 .social-links li {
-    margin-right: 35px;
+    padding: 25px 25px 0px 25px;  
 }
 
+.social-links h6{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
 
-
-
+footer a:hover{
+    transition: all 0.5s linear 0s;
+    color: #ff9000;
+    font-weight: normal;
+    font-size:115%;
+}
 
 
 

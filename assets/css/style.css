@@ -67,7 +67,7 @@ nav li a:hover{
     text-transform: capitalize;
     letter-spacing: 4px;
     text-decoration: underline;
-    text-decoration-color: #ff9000;
+    text-decoration-color:#ff6600;
 }
 
 .col-style{
@@ -85,7 +85,8 @@ nav li a:hover{
 /*-------------Footer---*/
 .no-row-margin{
     margin-left: 0;
-    margin-right: 0;    
+    margin-right: 0;
+    
 }
 
 footer li{
@@ -93,7 +94,8 @@ footer li{
 }
 
 footer ul{
-  padding-top: 15px;
+  padding-top: 5px;
+  margin-bottom: 2px;
 }
 
 .no-border{
@@ -105,16 +107,17 @@ footer ul{
     font-size:125%;
     text-align: center;
     padding-left:25px;
+    padding-top: 3px;
 }
 
 .social-links li {
-    padding: 25px 25px 0px 25px;  
+    padding: 0px 25px 0px 25px;  
 }
 
 .social-links h6{
     padding-left: 25px;
     padding-right: 25px;
-    padding-top: 20px;
+    padding-top: 0px;
 }
 
 footer a:hover{
@@ -125,13 +128,15 @@ footer a:hover{
 }
 
 
-
-
-
+@media only screen  and (max-width: 410px){
+    footer h6{
+font-size: 12px;
+}
+}
 
 article{
     padding-top: 80px;
-
+    padding-bottom: 140px;
 }
 
 section{

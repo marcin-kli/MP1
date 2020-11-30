@@ -90,6 +90,9 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 ### Font Awesome
 * As an icon library to keep user-friendly design.
 
+### Google fonts
+* As font resource.
+
 ### GitHub
 * As a software hosting platform to keep project in a remote location.
 
@@ -126,6 +129,11 @@ To fix this I created new class and *.no-row-margin* and set both margins to 0px
 # Credits
 
 To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+Ideas and knowledge library:
+[w3schools.com](https://www.w3schools.com)
+[css-tricks.com/](https://css-tricks.com/)
+[getbootstrap.com/docs]{https://getbootstrap.com/docs/4.5/getting-started/introduction/}
 
 ### Images:
 #### Unsplash.com:

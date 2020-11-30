@@ -40,6 +40,9 @@ a{
 .main-site-color a{
     color: rgb(110, 110, 110)
 }
+.elements-color{
+    color: #ff6600;
+}
 
 /*-------------Navigation---*/
 
@@ -55,13 +58,18 @@ nav li a:hover{
 .text-main-style{
     text-align: center;
     text-transform: uppercase;
+
 }
 .h4-text-style{
     padding: 20px 0px;
     font-size: 30px;
     font-weight: 300;
-    text-transform: lowercase;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    text-decoration: underline;
+    text-decoration-color: #ff9000;
 }
+
 .col-style{
     margin-top: 30px;
     margin-bottom: 20px;

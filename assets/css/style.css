@@ -7,11 +7,6 @@
   border: 0;
 }
 
-h4{
-    font-family: 'Sansita Swashed', Helvetica, sans-serif;
-    font-weight: 400px;
-}
-
 body{
   font-family: arial;
   font-size: 16px;
@@ -23,6 +18,18 @@ a{
     color: #ffabcd
 }
 
+h4{
+    font-family: 'Sansita Swashed', Helvetica, sans-serif;
+    font-weight: 400px;
+}
+p{
+    font-family: 'Sansita Swashed', Helvetica, sans-serif;
+    font-weight: 200px;
+    text-transform: capitalize;
+    text-align: center;
+    line-height:1.4em;
+    letter-spacing: 2px;
+}
 
 /*-------------Colors---*/
 
@@ -61,7 +68,7 @@ nav li a:hover{
 
 }
 .h4-text-style{
-    padding: 20px 0px;
+    padding: 25px 0px;
     font-size: 30px;
     font-weight: 300;
     text-transform: capitalize;
@@ -75,6 +82,9 @@ nav li a:hover{
     margin-bottom: 20px;
 }
 
+.lowercase{
+    text-transform: lowercase;
+}
 
 
 
@@ -133,6 +143,19 @@ footer a:hover{
 font-size: 12px;
 }
 }
+@media only screen  and (max-width: 960px){
+    #mobile-hidden{
+     display: none;
+}
+}
+@media screen and (max-width: 1000px) and (min-width: 0px),(min-width:1200px){
+  .ipad-screen {
+    display: none;
+  }
+}
+
+
+
 
 article{
     padding-top: 80px;

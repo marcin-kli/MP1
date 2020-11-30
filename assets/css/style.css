@@ -143,15 +143,20 @@ footer a:hover{
 font-size: 12px;
 }
 }
-@media only screen  and (max-width: 960px){
+@media only screen  and (max-width: 990px){
     #mobile-hidden{
      display: none;
 }
 }
 @media screen and (max-width: 1000px) and (min-width: 0px),(min-width:1200px){
-  .ipad-screen {
+    .ipad-screen {
     display: none;
-  }
+}
+}
+@media screen and (max-width:1200px){
+    .desktop-screen{
+    display: none;
+}
 }
 
 

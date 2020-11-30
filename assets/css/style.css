@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600&display=swap');
+
 /*-------------fixed for testing---*/
 *{
   margin: 0;
@@ -5,8 +7,13 @@
   border: 0;
 }
 
+h4{
+    font-family: 'Sansita Swashed', Helvetica, sans-serif;
+    font-weight: 400px;
+}
+
 body{
-  font-family: Arial;
+  font-family: arial;
   font-size: 16px;
   line-height: 1.5em;
   color: #F000AA;
@@ -21,6 +28,10 @@ a{
 
 .bg-site-main-color{
     background-color: #99eeff;
+}
+
+.bg-section{
+    background-color: #ccddff;
 }
 
 .main-site-color{
@@ -38,6 +49,28 @@ nav li a:hover{
     font-weight: normal;
     font-size:110%;
 }
+
+/*-------------Text style---*/
+
+.text-main-style{
+    text-align: center;
+    text-transform: uppercase;
+}
+.h4-text-style{
+    padding: 20px 0px;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: lowercase;
+}
+.col-style{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+
+/*-------------Article---*/
 
 
 
@@ -60,11 +93,6 @@ footer ul{
     border-radius: 0px;
 }
 
-.footer-style{
-    text-align: center;
-    text-transform: uppercase;
-}
-
 .social-links { 
     font-size:125%;
     text-align: center;
@@ -82,7 +110,7 @@ footer ul{
 }
 
 footer a:hover{
-    transition: all 0.5s linear 0s;
+    transition: all 0.5s;
     color: #ff9000;
     font-weight: normal;
     font-size:115%;
@@ -94,11 +122,10 @@ footer a:hover{
 
 
 article{
-    margin-top: 80px;
+    padding-top: 80px;
 
 }
 
 section{
-    height: 200px;
-    
+        
 }

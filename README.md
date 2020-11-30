@@ -114,13 +114,11 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 ![testing_issue_1](testing/testing_issue_1.png)
 
 I used [grid markup](https://getbootstrap.com/docs/4.5/components/card/#header-and-footer)
-to create two sepereate collumns. To achieve this I had to use *.row* in first *div* element and *col-sm-6* in the second *div* element.
+to create two sepereate collumns. To achieve this I had to use *.row* in first *div* element and *.col-sm-6* in the second *div* element.
 After that I found that horizontal scrolling bar appear on the bottom of the screen.
 Using mozilla developer tools I noticed that by default class *.row* has *margin-right: -15px;* and *margin-left: -15px;*
 
 To fix this I created new class and *.no-row-margin* and set both margins to 0px.
-
-
 
 # Deployment
 
@@ -129,4 +127,8 @@ To fix this I created new class and *.no-row-margin* and set both margins to 0px
 
 To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
+### Images:
+#### Unsplash.com:
+[annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)
+[ziphaus-SZ40Lbw1P5o-unsplash.jpg](https://unsplash.com/photos/SZ40Lbw1P5o)
 

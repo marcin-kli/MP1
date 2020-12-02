@@ -137,6 +137,7 @@ Ideas and knowledge library:
 
 ### Content:
 [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
+
 ### Images:
 #### Unsplash.com:
 [annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)

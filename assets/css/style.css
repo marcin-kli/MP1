@@ -30,12 +30,9 @@ h1{
 h5{
     font-size: 20px;
     font-weight: 200;
-    text-transform: capitalize;
     letter-spacing: 2px;
 }
 p{
-    
-    text-transform: capitalize;
     text-align: center;
     line-height:1.4em;
     letter-spacing: 2px;
@@ -59,7 +56,7 @@ p{
     color:#ff6600d0;
 }
 .elements-color{
-    color: #ff6600d0;
+    color: #ff6600aa;
 }
 .nav-color{
     color: #ccddff;
@@ -82,18 +79,21 @@ nav li a:hover{
 
 }
 .h4-text-style{
-    padding: 25px 0px;
+    padding: 35px 0px;
     font-size: 30px;
     font-weight: 300;
-    text-transform: capitalize;
     letter-spacing: 4px;
     text-decoration: underline;
     text-decoration-color:#ff6600d0;
 }
+.art-space{
+padding-top:25px;
+padding-bottom:25px;
 
+}
 .col-style{
-    margin-top: 30px;
-    margin-bottom: 20px;
+    padding-top:30px;
+    padding-bottom: 20px;
 }
 
 .lowercase{
@@ -192,7 +192,7 @@ font-size: 12px;
 
 
 article{
-    padding-top: 80px;
+    padding-top: 50px;
     padding-bottom: 140px;
 }
 

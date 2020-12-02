@@ -135,6 +135,8 @@ Ideas and knowledge library:
 [css-tricks.com/](https://css-tricks.com/)
 [getbootstrap.com/docs]{https://getbootstrap.com/docs/4.5/getting-started/introduction/}
 
+### Content:
+[fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
 ### Images:
 #### Unsplash.com:
 [annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)

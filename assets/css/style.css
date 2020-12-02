@@ -22,6 +22,7 @@ h1, h4, h5, p{
     font-family: 'Sansita Swashed', Helvetica, sans-serif;
     font-weight: 400;
     text-transform: capitalize;
+    
 }
 h1{
     text-decoration: underline;
@@ -31,6 +32,9 @@ h5{
     font-size: 20px;
     font-weight: 200;
     letter-spacing: 2px;
+}
+h3{
+    font-size: 20px;
 }
 p{
     text-align: center;
@@ -87,8 +91,8 @@ nav li a:hover{
     text-decoration-color:#ff6600d0;
 }
 .art-space{
-padding-top:25px;
-padding-bottom:25px;
+    padding-top:25px;
+    padding-bottom:35px;
 
 }
 .col-style{
@@ -108,16 +112,50 @@ padding-bottom:25px;
     background-image: url("../images/sven-scheuermeier-saGbrA6s8g0-unsplash.jpg");
     background-color: #000;
     background-position:bottom;
-    
 }
 .j-padding{
     padding-top:100px;
     padding-bottom:100px;
 }
+
 .jumbotron{
     background-color: #ffffff70;
     color: #6217ee;
     font-weight: 600;
+}
+
+/*-------------Offer---*/
+
+.bg-photoF{
+    background-image: url("../images/bruce-mars-y0SMHt74yqc-unsplash.jpg");
+    background-color: #000;
+    background-position:center;
+}
+.bg-photoP{
+    background-image: url("../images/annie-spratt--l-eemJU0vE-unsplash.jpg");
+    background-color: #000;
+    background-position:center;
+    margin-top: 50px;
+}
+.bg-photoB{
+    background-image: url("../images/luis-quintero-EPrjIYQrpkU-unsplash.jpg");
+    background-color: #000;
+    background-position:top;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bg-photoF, .bg-photoP, .bg-photoB .jumbotron{
+    background-color: #ffffffcc;
+    color: #6217ee;
+}
+
+.card-header{
+    background-color: #ffffffbb;
+}
+.card-header h6{
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 
@@ -189,13 +227,7 @@ font-size: 12px;
 }
 
 
-
-
 article{
     padding-top: 50px;
     padding-bottom: 140px;
-}
-
-section{
-        
 }

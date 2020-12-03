@@ -111,7 +111,13 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 
 # Testing
 
-### Issues found during site development.
+### I used Mozilla web developer tolls and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+### [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) extension to chrome browser was very helpful.
+
+### At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
+
+---
+## Issues found during site development.
 
 * #### Horizontal scrolling bar on the bottom of the screen.
 ![testing_issue_1](testing/testing_issue_1.png)
@@ -128,26 +134,35 @@ To fix this I created new class and *.no-row-margin* and set both margins to 0px
 
 # Credits
 
-To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
-Ideas and knowledge library:
-[w3schools.com](https://www.w3schools.com)
-[css-tricks.com/](https://css-tricks.com/)
-[getbootstrap.com/docs]{https://getbootstrap.com/docs/4.5/getting-started/introduction/}
+* To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+* Ideas and knowledge library:
+
+    * [w3schools.com](https://www.w3schools.com)
+
+    * [css-tricks.com](https://css-tricks.com/)
+
+    * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ### Content:
-[fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
+*  General content:  [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
 
 ### Map location:
-[fitlife.ie](http://fitlife.ie/)
+* [fitlife.ie](http://fitlife.ie/)
 
 ### Map:
-[Google maps](https://www.google.com/maps?ll=52.059441,-9.511501&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=7306226195280410511)
+* [Google maps](https://www.google.com/maps?ll=52.059441,-9.511501&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=7306226195280410511)
 
 ### Images:
+
 #### Unsplash.com:
-[annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)
-[ziphaus-SZ40Lbw1P5o-unsplash.jpg](https://unsplash.com/photos/SZ40Lbw1P5o)
-[bruce-mars-y0SMHt74yqc-unsplash.jpg](https://unsplash.com/photos/y0SMHt74yqc)
-[luis-quintero-EPrjIYQrpkU-unsplash.jpg](https://unsplash.com/photos/EPrjIYQrpkU)
-[sven-scheuermeier-saGbrA6s8g0-unsplash.jpg](https://unsplash.com/photos/saGbrA6s8g0)
+* [annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)
+
+* [ziphaus-SZ40Lbw1P5o-unsplash.jpg](https://unsplash.com/photos/SZ40Lbw1P5o)
+
+* [bruce-mars-y0SMHt74yqc-unsplash.jpg](https://unsplash.com/photos/y0SMHt74yqc)
+
+* [luis-quintero-EPrjIYQrpkU-unsplash.jpg](https://unsplash.com/photos/EPrjIYQrpkU)
+
+* [sven-scheuermeier-saGbrA6s8g0-unsplash.jpg](https://unsplash.com/photos/saGbrA6s8g0)

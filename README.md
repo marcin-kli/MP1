@@ -138,6 +138,12 @@ Ideas and knowledge library:
 ### Content:
 [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
 
+### Map location:
+[fitlife.ie](http://fitlife.ie/)
+
+### Map:
+[Google maps](https://www.google.com/maps?ll=52.059441,-9.511501&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=7306226195280410511)
+
 ### Images:
 #### Unsplash.com:
 [annie-spratt--l-eemJU0vE-unsplash.jpg](https://unsplash.com/photos/-l-eemJU0vE)

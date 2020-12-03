@@ -11,7 +11,7 @@ body{
   font-family: arial;
   font-size: 16px;
   line-height: 1.5em;
-  color: #F000AA;
+  color: #6217ee;
   background-color: #ccddff;
 }
 
@@ -53,9 +53,6 @@ p{
     background-color: #ccddff;
 }
 
-.main-site-color{
-    color: #6217ee;
-   
 }
 .nav-color a{
     color:#ff6600d0;
@@ -121,7 +118,6 @@ nav li a:hover{
 
 .jumbotron{
     background-color: #ffffff70;
-    color: #6217ee;
     font-weight: 600;
 }
 

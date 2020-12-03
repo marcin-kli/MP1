@@ -25,7 +25,7 @@ h1, h4{
     text-transform: capitalize;
     
 }
-h1{
+h1, h4{
     text-decoration: underline;
     text-decoration-color:#ff6600d0;
 }
@@ -53,10 +53,6 @@ p{
     background-color: #ccddff;
 }
 
-}
-.nav-color a{
-    color:#ff6600d0;
-}
 .elements-color{
     color: #ff6600aa;
 }
@@ -85,8 +81,7 @@ nav li a:hover{
     font-size: 30px;
     font-weight: 300;
     letter-spacing: 4px;
-    text-decoration: underline;
-    text-decoration-color:#ff6600d0;
+    
 }
 .art-space{
     padding-top:25px;
@@ -106,11 +101,17 @@ nav li a:hover{
 
 /*-------------Article---*/
 
+article{
+    padding-top: 50px;
+    padding-bottom: 140px;
+}
+
 .bg-photo{
     background-image: url("../images/sven-scheuermeier-saGbrA6s8g0-unsplash.jpg");
     background-color: #000;
     background-position:bottom;
 }
+
 .j-padding{
     padding-top:100px;
     padding-bottom:100px;
@@ -155,7 +156,6 @@ nav li a:hover{
 /*-------------About---*/
 
 .about-text-style{
-    font-family: Almarai;
     font-size: 18px;
     text-align: justify;
     letter-spacing: 3px;
@@ -177,12 +177,12 @@ border:0;
 }
 
 /*-------------Footer---*/
-/*replaced by no-gutter bootstrap
+
 .no-row-margin{
     margin-left: 0;
     margin-right: 0; 
 }
-*/
+
 footer li{
      display: inline;
 }
@@ -241,10 +241,4 @@ font-size: 12px;
     .desktop-screen{
     display: none;
 }
-}
-
-
-article{
-    padding-top: 50px;
-    padding-bottom: 140px;
 }

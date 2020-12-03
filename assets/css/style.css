@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400&family=Sansita+Swashed:wght@200;300;400;500;600;700&display=swap');
 
 /*-------------fixed for testing---*/
 *{
@@ -158,6 +158,17 @@ nav li a:hover{
     padding-right: 25px;
 }
 
+/*-------------About---*/
+
+.about-text-style{
+    font-family: Almarai;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 2;
+    text-indent: 150px;
+
+}
 
 /*-------------Footer---*/
 /*replaced by no-gutter bootstrap

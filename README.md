@@ -19,6 +19,7 @@ Main aim is to build responsive website with HTML and CSS only.
     - [User stories](#user-stories)
     - [Structure of the website](#structure-of-the-website)
     - [Wireframes](#wireframes)
+    - [Surface](#surface)
 - [Features](#features)
 - [Technology](#technology)
 - [Testing](#testing)
@@ -93,6 +94,8 @@ As a main font I used Almarai, and as a backup font sans-serif
 I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) secion.
 
 
+[Back to Table of contents](#table-of-contents)
+___
 # Features
 
 The website consists of 6 pages. Four are accessible from a navigation menu.
@@ -102,62 +105,63 @@ The website has below features:
 
 ## Navigation bar
 
-Navigation bar is visible on the top of each website.
-It is responsive and will adapt to mobile devices by change into a burger menu.
-Navigation scheme:
+* ### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
+* Navigation scheme:
 
-* On left side there is a logo. It can be used as navigation link to the main page.
-* On right side there are four links or burger menu. It contains:
-    * Home
-    * About me
-    * Offer
-    * Contact
+    * On left side there is a logo. It can be used as navigation link to the main page.
+    * On right side there are four links or burger menu. It contains:
+        * Home
+        * About me
+        * Offer
+        * Contact
 
 ## Timetable
 
-Each site has a timetable on the bottom. Customers can find classes times here.
+* Each site has a timetable on the bottom. Customers can find classes times here.
 
 ## Footer
 
-Footer is consistent on all pages. It has contact details on left side and social links on right side.
+* Footer is consistent on all pages. It has contact details on left side and social links on right side.
 Each link will open in a separate tab in a browser.
 
 ## Home
 
-### Portfolio section
+* ### Portfolio section
 
-Portfolio includes an image in left side and profession information or right side.
+    * Portfolio includes an image in left side and profession information or right side.
 This section is consistent on all pages.
 
-### Career path section
+* ### Career path section
 
-Career path section contains top achievements and career  points. It is presented as a timeline.
+    * Career path section contains top achievements and career  points. It is presented as a timeline.
 
-### Packages section
+* ### Packages section
 
-This part has three packages to choose for a customers. All buttons are linked to offer site.
+    * This part has three packages to choose for a customers. All buttons are linked to offer site.
 
 ## About me
 
-About me gives information about Annie's life and her professional background.
+* About me gives information about Annie's life and her professional background.
 
 ## Offer
 
-This site provide packages description to customers.
+* This site provide packages description to customers.
 Here they can find more information and choose interesting offer.
 
 ## Contact
 
-Contact form is a main part on this site. User can contact by filling a form with interesting topic.
+* Contact form is a main part on this site. User can contact by filling a form with interesting topic.
 Below a form there is a map with location of a fitness studio.
 
 ##  Future implementations
 
-A blog site with fitness advises.
+* A blog site with fitness advises.
 
-Login site for paid content including videos, meals ideas and recipes.
+* Login site for paid content including videos, meals ideas and recipes.
 
 
+[Back to Table of contents](#table-of-contents)
+___
 # Technologies used
 
 ### HTML5
@@ -191,6 +195,9 @@ Login site for paid content including videos, meals ideas and recipes.
 * As an image editor.
 
 
+[Back to Table of contents](#table-of-contents)
+
+___
 # Testing
 
  I used Mozilla web developer tolls and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
@@ -212,6 +219,9 @@ Using mozilla developer tools I noticed that by default class *.row* has *margin
 
 To fix this I created new class and *.no-row-margin* and set both margins to 0px.
 
+
+[Back to Table of contents](#table-of-contents)
+___
 # Deployment
 
 

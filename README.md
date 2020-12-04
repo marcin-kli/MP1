@@ -1,5 +1,8 @@
-# User-Centric Frontend Development Milestone Project
+# Annie's Portfolio website
 
+## User-Centric Frontend Development Milestone Project.
+
+![Mockup](md_images/mockup.png)
 This project is for educational purposes and can be used as a template for a business use.
 Main aim is to build responsive website with HTML and CSS only.
 
@@ -21,6 +24,8 @@ Main aim is to build responsive website with HTML and CSS only.
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
+
+
 # UX
 
 ## Website owner business goals
@@ -68,22 +73,41 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 
 ## Wireframes
 
-![Wireframes](wireframes/wireframes.png)
+![Wireframes](md_images/wireframes.png)
 
----
+## Surface
+
+### Colors
+Main colours used in project:
+* background color: #ccddff
+* font color: #6217ee
+* link color: #ff6600
+* hoover color: #ff9000
+
+### Fonts 
+
+As a main font I used Almarai, and as a backup font sans-serif
+
+### Images
+
+I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) secion.
 
 
 # Features
 
 The website consists of 6 pages. Four are accessible from a navigation menu.
+One is a 404 error page and one is a submission confirmation page for a form.
 
 The website has below features:
 
 ### Navigation bar
 
-Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
+Navigation bar is visible on the top of each website.
+It is responsive and will adapt to mobile devices by change into a burger menu.
+Navigation scheme:
+
 * On left side there is a logo. It can be used as navigation link to the main page.
-* On right side there are four links:
+* On right side there are four links or burger menu. It contains:
     * Home
     * About me
     * Offer
@@ -92,7 +116,7 @@ Navigation bar is visible on the top of each website. It is responsive and will 
 ### Footer
 
 Footer is consistent on all pages. It has contact details on left side and social links on right side.
-Each link will open separate tab in a browser.
+Each link will open in a separate tab in a browser.
 
 ### Portfolio
 

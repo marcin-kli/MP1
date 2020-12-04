@@ -106,6 +106,8 @@ article{
     background-image: url("../images/sven-scheuermeier-saGbrA6s8g0-unsplash.jpg");
     background-color: #000;
     background-position:bottom;
+    width: 640;
+    height: 427;
 }
 
 .j-padding{
@@ -123,15 +125,21 @@ article{
 .bg-photoF{
     background-image: url("../images/bruce-mars-y0SMHt74yqc-unsplash.jpg");
     background-position:center;
+    width: 1920;
+    height: 1280;
 }
 .bg-photoP{
     background-image: url("../images/annie-spratt--l-eemJU0vE-unsplash.jpg");
     background-position:center;
+    width: 1920;
+    height: 1280;
     margin-top: 50px;
 }
 .bg-photoB{
     background-image: url("../images/luis-quintero-EPrjIYQrpkU-unsplash.jpg");
     background-position:top;
+    width: 1920;
+    height: 1280;
     margin-top: 50px;
     margin-bottom: 50px;
 }

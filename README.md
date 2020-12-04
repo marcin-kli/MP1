@@ -100,7 +100,7 @@ One is a 404 error page and one is a submission confirmation page for a form.
 
 The website has below features:
 
-### Navigation bar
+## Navigation bar
 
 Navigation bar is visible on the top of each website.
 It is responsive and will adapt to mobile devices by change into a burger menu.
@@ -113,16 +113,52 @@ Navigation scheme:
     * Offer
     * Contact
 
-### Footer
+## Timetable
+
+Each site has a timetable on the bottom. Customers can find classes times here.
+
+## Footer
 
 Footer is consistent on all pages. It has contact details on left side and social links on right side.
 Each link will open in a separate tab in a browser.
 
-### Portfolio
+## Home
+
+### Portfolio section
+
+Portfolio includes an image in left side and profession information or right side.
+This section is consistent on all pages.
+
+### Career path section
+
+Career path section contains top achievements and career  points. It is presented as a timeline.
+
+### Packages section
+
+This part has three packages to choose for a customers. All buttons are linked to offer site.
+
+## About me
+
+About me gives information about Annie's life and her professional background.
+
+## Offer
+
+This site provide packages description to customers.
+Here they can find more information and choose interesting offer.
+
+## Contact
+
+Contact form is a main part on this site. User can contact by filling a form with interesting topic.
+Below a form there is a map with location of a fitness studio.
+
+##  Future implementations
+
+A blog site with fitness advises.
+
+Login site for paid content including videos, meals ideas and recipes.
 
 
-
-# Technology
+# Technologies used
 
 ### HTML5
 * As a structure language.
@@ -130,14 +166,14 @@ Each link will open in a separate tab in a browser.
 ### CSS
 * As a style language.
 
-### Bootstrap bootstrap@4.5.3
-* As a CSS framework to keep responsive, mobile first aproach.
+### Bootstrap 
+* Bootstrap@4.5.3 as a CSS framework to keep responsive, mobile first aproach.
 
 ### Font Awesome
-* As an icon library to keep user-friendly design.
+* As an icon library for a social links.
 
 ### Google fonts
-* As font resource.
+* As a font resource.
 
 ### GitHub
 * As a software hosting platform to keep project in a remote location.
@@ -152,15 +188,16 @@ Each link will open in a separate tab in a browser.
 * As a wireframing tool.
 
 ### GNU Image Manipulation Program [GIMP]
-* As a image editor.
+* As an image editor.
 
 
 # Testing
 
-### I used Mozilla web developer tolls and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
-### [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) extension to chrome browser was very helpful.
+ I used Mozilla web developer tolls and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+ 
+ [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) extension to chrome browser was very helpful.
 
-### At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
+ At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
 
 ---
 ## Issues found during site development.

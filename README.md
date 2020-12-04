@@ -75,6 +75,28 @@ The website is designed to be easy and user-friendy on all type of devices. On d
 
 # Features
 
+The website consists of 6 pages. Four are accessible from a navigation menu.
+
+The website has below features:
+
+### Navigation bar
+
+Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
+* On left side there is a logo. It can be used as navigation link to the main page.
+* On right side there are four links:
+    * Home
+    * About me
+    * Offer
+    * Contact
+
+### Footer
+
+Footer is consistent on all pages. It has contact details on left side and social links on right side.
+Each link will open separate tab in a browser.
+
+### Portfolio
+
+
 
 # Technology
 

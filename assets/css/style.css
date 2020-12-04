@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400&display=swap');
 
-/*-------------fixed for testing---*/
 *{
   margin: 0;
   padding: 0;
@@ -96,8 +95,6 @@ nav li a:hover{
     text-transform: lowercase;
 }
 
-
-
 /*-------------Article---*/
 
 article{
@@ -157,7 +154,7 @@ article{
 .about-text-style{
     font-size: 18px;
     text-align: justify;
-    letter-spacing: 3px;
+    letter-spacing: 1.25px;
     line-height: 2.25;
     text-transform: none;
     border: 5px solid #cccccc;
@@ -171,7 +168,6 @@ article{
 height:100%;
 width:100%;
 border:0;
-
 }
 
 /*-------------Footer---*/
@@ -219,6 +215,7 @@ footer a:hover{
     font-size:110%;
 }
 
+/*-------------media screen---*/
 
 @media only screen  and (max-width: 410px){
     footer h6{

@@ -21,12 +21,10 @@ a{
 h1, h4{
     font-weight: 400;
     text-transform: capitalize;
-    
-}
-h1, h4{
     text-decoration: underline;
-    text-decoration-color:#ff6600d0;
+    text-decoration-color:#ff6600d0;    
 }
+
 h5{
     font-size: 20px;
     font-weight: 200;
@@ -40,33 +38,6 @@ p{
     line-height:1.4em;
     letter-spacing: 1.5px;
 }
-
-/*-------------Colors---*/
-
-.bg-site-main-color{
-    background-color: #01414a;
-}
-
-.bg-section{
-    background-color: #ccddff;
-}
-
-.elements-color{
-    color: #ff6600aa;
-}
-.nav-color{
-    color: #ccddff;
-}
-
-/*-------------Navigation---*/
-
-nav li a:hover{
-    transition: all 0.5s;
-    color:#ff9000 !important;
-    font-weight: normal;
-    font-size:110%;
-}
-
 /*-------------Text style---*/
 
 .text-main-style{
@@ -94,6 +65,35 @@ nav li a:hover{
 .lowercase{
     text-transform: lowercase;
 }
+
+
+/*-------------Colors---*/
+
+.bg-site-main-color{
+    background-color: #01414a;
+}
+
+.bg-section{
+    background-color: #ccddff;
+}
+
+.elements-color{
+    color: #ff6600aa;
+}
+.nav-color{
+    color: #ccddff;
+}
+
+
+/*-------------Navigation---*/
+
+nav li a:hover{
+    transition: all 0.5s;
+    color:#ff9000 !important;
+    font-weight: normal;
+    font-size:110%;
+}
+
 
 /*-------------Article---*/
 
@@ -138,16 +138,17 @@ article{
 
 .bg-photoF .bg-photoP .bg-photoB, .jumbotron{
     background-color: #ffffff88;
-    
 }
 
 .card-header{
     background-color: #ffffffcc;
 }
+
 .card-header h6{
     padding-left: 25px;
     padding-right: 25px;
 }
+
 
 /*-------------About---*/
 
@@ -160,15 +161,17 @@ article{
     border: 5px solid #cccccc;
     border-radius: 15px;
     padding:15px;
-    
-
 }
+
+
 /*-------------Contact---*/
+
 .map{
 height:100%;
 width:100%;
 border:0;
 }
+
 
 /*-------------Footer---*/
 
@@ -214,6 +217,7 @@ footer a:hover{
     font-weight: normal;
     font-size:110%;
 }
+
 
 /*-------------media screen---*/
 

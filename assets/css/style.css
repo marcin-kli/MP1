@@ -234,12 +234,12 @@ footer a:hover{
 font-size: 12px;
 }
 }
-@media only screen  and (max-width: 992px){
+@media only screen  and (max-width: 991px){
     #mobile-hidden{
      display: none;
 }
 }
-@media screen and (max-width: 1000px) and (min-width: 0px),(min-width:1200px){
+@media screen and (max-width: 991px) and (min-width: 0px),(min-width:1200px){
     .ipad-screen {
     display: none;
 }

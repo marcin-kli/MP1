@@ -32,7 +32,7 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
     - [Code Validation](#code-validation)
     - [User stories testing](#user-stories-testing)
     - [Issues found during site development](#issues-found-during-site-development)
-
+    - [Performance testing](#performance-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -284,7 +284,32 @@ To fix this I created new class and *.no-row-margin* and set both margins to 0px
 > I read bootstrap documentation about [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/) and I decided to use predefined classes for paddings and margins. By doing this I think my code looks cleaner and will be easier to understand by other developers.
 
 
+* #### Ipad screen compatibility
+
+I found a bugs on Ipad screens. I would like to keep years date just above the stars, but they were shifted.
+![testing_issue_2](testing/testing_ipad_screen.png)
+
+I had to create a block element with a class "ipad-screen" and non-breaking space element inside a block element.
+In CSS file I had to create @media rule that will show this block element on Ipad displays only.
+
+>}
+@media screen and (max-width: 991px) and (min-width: 0px),(min-width:1200px){
+    .ipad-screen {
+    display: none;
+}
+}
+
+![bug_solutino1](testing/bug_solution1.png)
+
+![bug_solutino2](testing/bug_solution2.png)
+
+
+
+## Performance testing
+
+
 [Back to Table of contents](#table-of-contents)
+
 ___
 # Deployment
 
@@ -304,6 +329,7 @@ ___
     * [css-tricks.com](https://css-tricks.com/)
 
     * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+        I used code for navbar, jumbotron and card from Bootstrap.
 
 ### Content:
 *  General content:  [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)

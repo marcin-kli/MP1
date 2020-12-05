@@ -224,10 +224,6 @@ ___
  I tested on hardware devices such as: Lenovo ideapad with Ubuntu and Windows OS's, Lenovo smartphone with Android 7, Google pixel 3 with Android 11.
 
 
-## Code Validation
- At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
-
-
 ## User stories testing
 
 ### As a business owner:
@@ -303,10 +299,20 @@ In CSS file I had to create @media rule that will show this block element on Ipa
 
 ![bug_solutino2](testing/bug_solution2.png)
 
-
-
 ## Performance testing
 
+I run [Lighthouse](https://developers.google.com/web/tools/lighthouse/) tool to check performance of the website.
+I had to do couple of changes to improve performance. Screenshots are presented below:
+
+![bug_performance1](testing/performance1.png)
+![bug_performance2](testing/performance2.png)
+![performance_final](testing/performance_final.png)
+
+
+
+
+## Code Validation
+ At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
 
 [Back to Table of contents](#table-of-contents)
 

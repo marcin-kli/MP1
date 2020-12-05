@@ -3,8 +3,12 @@
 ## User-Centric Frontend Development Milestone Project.
 
 ![Mockup](md_images/mockup.png)
+
+Website presents Annie's portfolio as a fitness instructor, personal trainer and diet coach.
+Users will be able to find interesting content in easy and simple way.
+
 This project is for educational purposes and can be used as a template for a business use.
-Main aim is to build responsive website with HTML and CSS only.
+Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
 
 ---
 
@@ -41,9 +45,9 @@ The main reason to create this website is to help present a fitness instructor t
 - find location of the place and contact information
 
 ### Returning user goals:
-- user can learn more about instractor
+- user can learn more about instructor
 - user is able to find timetable
-- user can send a message to the instractor using a contact form
+- user can send a message to the instructor using a contact form
 
 ### Website owner business goals
 

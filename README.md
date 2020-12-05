@@ -27,6 +27,12 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
 - [Features](#features)
 - [Technology](#technology)
 - [Testing](#testing)
+    - [Functionality testing](#functionality-testing)
+    - [Compatibility testing](#compatibility-testing)
+    - [Code Validation](#code-validation)
+    - [User stories testing](#user-stories-testing)
+    - [Issues found during site development](#issues-found-during-site-development)
+
 - [Deployment](#deployment)
 - [Credits](#credits)
 
@@ -91,11 +97,11 @@ Main colours used in project:
 
 ### Fonts 
 
-As a main font I used Almarai, and as a backup font sans-serif
+* As a main font I used Almarai, and as a backup font sans-serif
 
 ### Images
 
-I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) secion.
+* I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) secion.
 
 
 [Back to Table of contents](#table-of-contents)
@@ -205,11 +211,22 @@ ___
 ___
 # Testing
 
- I used Mozilla web developer tolls and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+## Functionality testing 
+
+ I used Mozilla web developer tools and Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
  
  [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) extension to chrome browser was very helpful.
 
+
+## Compatibility testing
+ Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in both Mozilla web developer tolls and Chrome developer tools. 
+ 
+ I tested on hardware devices such as: Lenovo ideapad with Ubuntu and Windows OS's, Lenovo smartphone with Android 7, Google pixel 3 with Android 11.
+
+
+## Code Validation
  At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
+
 
 ## User stories testing
 
@@ -250,7 +267,7 @@ ___
 
 
 ---
-## Issues found during site development.
+## Issues found during site development
 
 * #### Horizontal scrolling bar on the bottom of the screen.
 ![testing_issue_1](testing/testing_issue_1.png)
@@ -261,6 +278,10 @@ After that I found that horizontal scrolling bar appear on the bottom of the scr
 Using mozilla developer tools I noticed that by default class *.row* has *margin-right: -15px;* and *margin-left: -15px;*
 
 To fix this I created new class and *.no-row-margin* and set both margins to 0px.
+
+> After I gain more experience with bootstrap I found that I could achive this by [no-gutters](https://getbootstrap.com/docs/4.0/layout/grid/#no-gutters) class.
+
+> I read bootstrap documentation about [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/) and I decided to use predefined classes for paddings and margins. By doing this I think my code looks cleaner and will be easier to understand by other developers.
 
 
 [Back to Table of contents](#table-of-contents)

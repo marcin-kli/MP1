@@ -327,7 +327,16 @@ I noticed that this tests scores vary from time to time and they depend on exter
 ___
 # Deployment
 
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system.
+I used push command in Gitpod to save changes into GitHub.
 
+To deploy a project I had to:
+
+* Log in to GitHub and click on repository to deploy ([MP1](https://github.com/marcin-kli/MP1))
+* select `settings` and find GitHub Pages section at the very bottom of the page
+* from source select `none` and then `Milestone-Projects` branch.
+* click save and page was deployed after auto-refresh.
+>  Your site is published at https://marcin-kli.github.io/MP1/
 
 [Back to Table of contents](#table-of-contents)
 ___

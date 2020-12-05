@@ -306,13 +306,19 @@ I had to do couple of changes to improve performance. Screenshots are presented 
 
 ![bug_performance1](testing/performance1.png)
 ![bug_performance2](testing/performance2.png)
-![performance_final](testing/performance_final.png)
 
+Final results:
+![performance_final](testing/performance_final.png)
+I noticed that this tests scores vary from time to time and they depend on external libraries as well. 
 
 
 
 ## Code Validation
- At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
+ At the and of the project I used two websites to validate a code
+ 
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS
+ * [Nu Html Checker](https://validator.w3.org/) to test HTML
+
 
 [Back to Table of contents](#table-of-contents)
 

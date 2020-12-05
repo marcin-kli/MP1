@@ -7,7 +7,7 @@
 Website presents Annie's portfolio as a fitness instructor, personal trainer and diet coach.
 Users will be able to find interesting content in easy and simple way.
 
-This project is for educational purposes and can be used as a template for a business use.
+This project is for educational purposes and can not be used as a template for a business use.
 Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
 
 
@@ -284,7 +284,8 @@ To fix this I created new class and *.no-row-margin* and set both margins to 0px
 
 * #### Ipad screen compatibility
 
-I found a bugs on Ipad screens. I would like to keep years date just above the stars, but they were shifted.
+I found a bugs on Ipad screens. I would like to keep years dates just above the stars, but they were shifted.
+
 ![testing_issue_2](testing/testing_ipad_screen.png)
 
 I had to create a block element with a class "ipad-screen" and non-breaking space element inside a block element.
@@ -333,10 +334,19 @@ I used push command in Gitpod to save changes into GitHub.
 To deploy a project I had to:
 
 * Log in to GitHub and click on repository to deploy ([MP1](https://github.com/marcin-kli/MP1))
-* select `settings` and find GitHub Pages section at the very bottom of the page
+* select `Settings` and find GitHub Pages section at the very bottom of the page
 * from source select `none` and then `Milestone-Projects` branch.
 * click save and page was deployed after auto-refresh.
 >  Your site is published at https://marcin-kli.github.io/MP1/
+
+To run localy:
+* Log in to GitHub and click on repository to download ([MP1](https://github.com/marcin-kli/MP1))
+* select `Code` and click Download the ZIP file.
+* after download you can extract the file and use in your local environment 
+
+Alternatively you can Clone [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+this repository ([MP1](https://github.com/marcin-kli/MP1)) into your
 
 [Back to Table of contents](#table-of-contents)
 ___
@@ -353,6 +363,8 @@ ___
 
     * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
         I used code for navbar, jumbotron and card from Bootstrap.
+
+* Links transition: [CSS transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)
 
 ### Content:
 *  General content:  [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)

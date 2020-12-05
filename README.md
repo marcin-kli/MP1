@@ -159,8 +159,9 @@ Below a form there is a map with location of a fitness studio.
 
 ##  Future implementations
 
+* Create diet coach offer.
+* Add new site with class descriptions.
 * A blog site with fitness advises.
-
 * Login site for paid content including videos, meals ideas and recipes.
 
 
@@ -210,6 +211,44 @@ ___
 
  At the and of the project I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS and [Nu Html Checker](https://validator.w3.org/) to test HTML
 
+## User stories testing
+
+### As a business owner:
+
+- I would like to present myself and my offer on the website clearly to potential customers.
+    > Name, photo of the instructor and top skills are on each page in portfolio section. Career path section at home page provides more details.
+
+- I need to make sure that my current and new customers will find a professional help with their diets, personal or group trainings.
+    > Customers can achieve this by contacting through contact form. They can choose interesting topic and describe their needs in a message box.
+
+- I want my customers to be able to learn how to use my website intuitively and easily.
+    > Each site has a fixed navigation menu and is accessible at all times. All content is presented with minimalistic approach.
+
+- I would like to build and maintain relationship with potential and current customers.
+    > Customers are able to find a links to social channels at the bottom of each page. Alternatively they can contact by email or contact form.
+
+
+### As a new customer:
+- wish to find information about personal trainer and check her/his qualifications.
+    > User can see essential description on the home page. More information can be find in about page.
+
+- I would like to contact with a diet coach to change my eating habits and start healthy lifestyle.
+    > User can find a contact form in contact page. Alternatively can use an email. Email address if located in a footer the bottom of each page.
+
+- I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
+    > Brief class description of fitness group classes can be find on the home page below career path section. Offer site provides more detailed description. Frome there user can click contact us button and send a message to the traier.
+
+### As a returning customer:
+- I need to contact my diet coach to reschedule my meeting.
+    > User can find a contact form in contact page. Alternatively can use social channels or email.
+
+- I would like to check timetable for current days and times for a group trainings.
+    > Each site has time table at the bottom of the page.
+
+- I want to show my friend a location of the fitness studio where we can join for a semi private personal training.
+    > Each page contains location information in a footer. Users are able to find a location map in contact page.
+
+
 ---
 ## Issues found during site development.
 
@@ -229,6 +268,9 @@ ___
 # Deployment
 
 
+
+[Back to Table of contents](#table-of-contents)
+___
 # Credits
 
 
@@ -263,3 +305,7 @@ ___
 * [luis-quintero-EPrjIYQrpkU-unsplash.jpg](https://unsplash.com/photos/EPrjIYQrpkU)
 
 * [sven-scheuermeier-saGbrA6s8g0-unsplash.jpg](https://unsplash.com/photos/saGbrA6s8g0)
+
+
+[Back to Table of contents](#table-of-contents)
+___

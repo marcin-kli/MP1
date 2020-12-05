@@ -10,6 +10,8 @@ Users will be able to find interesting content in easy and simple way.
 This project is for educational purposes and can be used as a template for a business use.
 Main aim is to build responsive website with HTML and CSS only. I will use Bootstrap framework to keep website consent and clear.
 
+
+## [View life website in github pages](https://marcin-kli.github.io/MP1/)
 ---
 
 # Table of contents
@@ -115,7 +117,7 @@ The website has below features:
 
 ## Navigation bar
 
-* ### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
+* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
 * Navigation scheme:
 
     * On left side there is a logo. It can be used as navigation link to the main page.

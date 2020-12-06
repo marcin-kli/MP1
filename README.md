@@ -44,23 +44,22 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
 
 ## Website owner business goals
 
-The main reason to create this website is to help present a fitness instructor to the public. Page owner can present herself, her professional development path, achievements and top skills. Also this website is the best place to show types of fitness classes, personal training and diet coaching descriptions. And at the end owner will be able to present an offer with available packages and prices.
+The main reason to create this website is to help present a fitness instructor to the public.
+Page owner can present herself, her professional development path, achievements and top skills.
+Also this website is the best place to show types of fitness classes, personal training and diet coaching descriptions.
+And at the end owner will be able to present an offer with available packages and prices.
 
 ## User goals
 
 ### New user goals:
-- user is able to find information about professional fitness trainer,
-- user can easily locate class description, personal training sessions description and diet coaching sessions description
-- find location of the place and contact information
+- user is able to find information about professional fitness trainer.
+- user can easily locate class description, personal training sessions description and diet coaching sessions description.
+- find location of the place and contact information.
 
 ### Returning user goals:
-- user can learn more about instructor
-- user is able to find timetable
-- user can send a message to the instructor using a contact form
-
-### Website owner business goals
-
-The main reason to create this website is to help present a fitness instructor to the public. Page owner can present herself, her professional development path, achievements and top skills. Also this website is the best place to show types of fitness classes, personal training and diet coaching descriptions. And at the end owner will be able to present an offer with available packages and prices.
+- user can learn more about instructor.
+- user is able to find timetable.
+- user can send a message to the instructor using a contact form.
 
 ## User stories
 
@@ -71,7 +70,7 @@ The main reason to create this website is to help present a fitness instructor t
 * I would like to build and maintain relationship with potential and current customers.
 
 ### As a new customer:
-* wish to find information about personal trainer and check her/his qualifications.
+* I wish to find information about personal trainer and check her/his qualifications.
 * I would like to contact with a diet coach to change my eating habits and start healthy lifestyle. 
 * I want to join in a fitness group with professional trainer, to find motivation and spend time actively.
 
@@ -94,7 +93,7 @@ I used website wireframe.cc to create a wireframes.
 ## Surface
 
 ### Colors
-Main colours used in project:
+Main colours used in a project:
 * background color: #ccddff
 * font color: #6217ee
 * link color: #ff6600
@@ -106,7 +105,7 @@ Main colours used in project:
 
 ### Images
 
-* I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) secion.
+* I used images from [Unspalsh.com](www.unsplash.com) and there are credited in [credits](#credits) section.
 
 
 [Back to Table of contents](#table-of-contents)
@@ -120,7 +119,7 @@ The website has below features:
 
 ## Navigation bar
 
-* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by change into a burger menu.
+* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
 * Navigation scheme:
 
     * On left side there is a logo. It can be used as navigation link to the main page.
@@ -143,7 +142,7 @@ Each link will open in a separate tab in a browser.
 
 * ### Portfolio section
 
-    * Portfolio includes an image in left side and profession information or right side.
+    * Portfolio includes an image on the left side and profession information on the right side.
 This section is consistent on all pages.
 
 * ### Career path section
@@ -278,11 +277,12 @@ to create two sepereate collumns. To achieve this I had to use *.row* in first *
 After that I found that horizontal scrolling bar appear on the bottom of the screen.
 Using mozilla developer tools I noticed that by default class *.row* has *margin-right: -15px;* and *margin-left: -15px;*
 
-To fix this I created new class and *.no-row-margin* and set both margins to 0px.
+To fix this I created new class *.no-row-margin* and set both margins to 0px.
 
 > After I gain more experience with bootstrap I found that I could achive this by [no-gutters](https://getbootstrap.com/docs/4.0/layout/grid/#no-gutters) class.
 
-> I read bootstrap documentation about [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/) and I decided to use predefined classes for paddings and margins. By doing this I think my code looks cleaner and will be easier to understand by other developers.
+> I read bootstrap documentation about [Spacing](https://getbootstrap.com/docs/4.0/utilities/spacing/) and I decided to use predefined classes for paddings and margins in the project.
+By doing this I think my code looks cleaner and will be easier to understand by other developers.
 
 
 * #### Ipad screen compatibility
@@ -315,7 +315,7 @@ I had to do couple of changes to improve performance. Screenshots are presented 
 
 Final results:
 ![performance_final](testing/performance_final.png)
-I noticed that this tests scores vary from time to time and they depend on external libraries as well. 
+I noticed that this tests scores vary from time to time and depends on external libraries as well. 
 
 
 
@@ -339,24 +339,24 @@ To deploy a project I had to:
 * Log in to GitHub and click on repository to deploy ([MP1](https://github.com/marcin-kli/MP1))
 * select `Settings` and find GitHub Pages section at the very bottom of the page
 * from source select `none` and then `Milestone-Projects` branch.
-* click save and page was deployed after auto-refresh.
+* click `save` and page was deployed after auto-refresh.
 >  Your site is published at https://marcin-kli.github.io/MP1/
 
 To run localy:
 * Log in to GitHub and click on repository to download ([MP1](https://github.com/marcin-kli/MP1))
 * select `Code` and click Download the ZIP file.
-* after download you can extract the file and use in your local environment 
+* after download you can extract the file and use it in your local environment 
 
-Alternatively you can Clone [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+Alternatively you can [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 or [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
-this repository ([MP1](https://github.com/marcin-kli/MP1)) into your
+this repository ([MP1](https://github.com/marcin-kli/MP1)) into your github account.
 
 [Back to Table of contents](#table-of-contents)
 ___
 # Credits
 
 
-* To complete this project I used Code Institute student template [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* To complete this project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 * Ideas and knowledge library:
 
@@ -367,8 +367,13 @@ ___
     * [getbootstrap.com/docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
         I used code for navbar, jumbotron and card from Bootstrap.
 
-* Links transition: [CSS transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)
+### Code
 
+* Links transition: [CSS transition Property](https://www.w3schools.com/cssref/css3_pr_transition.asp)
+* Bootstrap: [Kitchen sink](https://getbootstrap.com/docs/4.0/components/card/#kitchen-sink)
+* Bootstrap: [Burger menu](https://getbootstrap.com/docs/4.5/components/navbar/#text)
+* Bootstrap: [Jumbotron](https://getbootstrap.com/docs/4.5/components/jumbotron/)
+* Bootstrap: [Form](https://getbootstrap.com/docs/4.5/components/forms/)
 ### Content:
 *  General content:  [fitlife.ie](http://fitlife.ie/lessons-its-your-life-your-fit-life/)
 

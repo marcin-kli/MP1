@@ -37,6 +37,7 @@ Main aim is to build responsive website with HTML and CSS only. I will use Boots
     - [Performance testing](#performance-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
+- [Screenshots](#screenshots)
 
 
 # UX
@@ -85,6 +86,8 @@ The main reason to create this website is to help present a fitness instructor t
 The website is designed to be easy and user-friendy on all type of devices. On desktop, tablet or mobile device there should be no difference for a user to have a fantastic experience. All parts are designed to achieve maximum user satisfaction. User will get some interaction from the interface as links and buttons will have a hover effects.
 
 ## Wireframes
+
+I used website wireframe.cc to create a wireframes.
 
 ![Wireframes](md_images/wireframes.png)
 
@@ -387,6 +390,28 @@ ___
 * [luis-quintero-EPrjIYQrpkU-unsplash.jpg](https://unsplash.com/photos/EPrjIYQrpkU)
 
 * [sven-scheuermeier-saGbrA6s8g0-unsplash.jpg](https://unsplash.com/photos/saGbrA6s8g0)
+
+
+[Back to Table of contents](#table-of-contents)
+___
+
+# Screenshots
+
+## Project screenshots
+
+![bug_performance1](md_images/screenshots/home_1.png)
+
+![bug_performance1](md_images/screenshots/home_2.png)
+
+![bug_performance1](md_images/screenshots/about.png)
+
+![bug_performance1](md_images/screenshots/offer_1.png)
+
+![bug_performance1](md_images/screenshots/offer_2.png)
+
+![bug_performance1](md_images/screenshots/offer_3.png)
+
+![bug_performance1](md_images/screenshots/contact.png)
 
 
 [Back to Table of contents](#table-of-contents)

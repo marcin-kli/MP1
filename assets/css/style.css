@@ -27,12 +27,13 @@ h1, h4{
 
 h5{
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
     letter-spacing: 2px;
 }
 h3{
     font-size: 20px;
 }
+
 p{
     text-align: center;
     line-height:1.4em;
@@ -43,20 +44,20 @@ p{
 .text-main-style{
     text-align: center;
     text-transform: uppercase;
-
 }
+
 .h4-text-style{
     padding: 35px 0px;
     font-size: 30px;
     font-weight: 300;
-    letter-spacing: 4px;
-    
+    letter-spacing: 4px; 
 }
+
 .art-space{
     padding-top:25px;
     padding-bottom:35px;
-
 }
+
 .col-style{
     padding-top:30px;
     padding-bottom: 30px;
@@ -86,7 +87,7 @@ p{
 
 
 /*-------------Navigation---*/
-
+/*-- transition code taken from  www.w3schools.com/cssref/css3_pr_transition.asp  --*/
 nav li a:hover{
     transition: all 0.5s;
     color:#ff9000 !important;
@@ -211,6 +212,7 @@ footer ul{
     padding-top: 0px;
 }
 
+/*-- transition code taken from  www.w3schools.com/cssref/css3_pr_transition.asp  --*/
 footer a:hover{
     transition: all 0.5s;
     color: #ff9000;
